@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172725fd-735e-4a49-87d3-a05fdb3936f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Neon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neuron.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="172725fd-735e-4a49-87d3-a05fdb3936f8" name="Changes" comment="Codigo V1">
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Functions.executor": "Run",
     "Python.Main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,6 +64,30 @@
       <option name="presentableId" value="Default" />
       <updated>1718508382984</updated>
     </task>
+    <task id="LOCAL-00001" summary="Codigo V1">
+      <option name="closed" value="true" />
+      <created>1719630738921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719630738921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codigo V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codigo V1" />
   </component>
 </project>
