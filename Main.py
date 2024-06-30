@@ -25,7 +25,7 @@ bias_L4 = np.random.randn(output_size) * 0.01  # Output bias
 
 # Training settings
 learning_rate = 0.01
-hit_tolerance = 90  # hit percentage tolerance in percentage
+hit_tolerance = 80  # hit percentage tolerance in percentage
 batch_size = 16
 # Just Initialize some Vars
 epoch = 0

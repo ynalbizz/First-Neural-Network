@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172725fd-735e-4a49-87d3-a05fdb3936f8" name="Changes" comment="First Network Is Working">
-      <change afterPath="$PROJECT_DIR$/numberdrawing.py" afterDir="false" />
+    <list default="true" id="172725fd-735e-4a49-87d3-a05fdb3936f8" name="Changes" comment="First Network(With Batch Processing)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Functions.executor": "Run",
-    "Python.Main.executor": "Run",
-    "Python.numberdrawing.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberdrawing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cdavi\PycharmProjects\Neon" />
@@ -81,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719692193282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Network(With Batch Processing)">
+      <option name="closed" value="true" />
+      <created>1719714588118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719714588118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Codigo V1" />
     <MESSAGE value="First Network Is Working" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Network Is Working" />
+    <MESSAGE value="First Network(With Batch Processing)" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Network(With Batch Processing)" />
   </component>
 </project>
